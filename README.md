@@ -25,3 +25,8 @@ git checkout -b branchname
   - [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
     - [https://www.kaggle.com/aharless/xgboost-cv-lb-284](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
     - [https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
+
+- 2021-11-07
+  - Porto Seguro's Safe Driver Prediction 공부 내용 발표
+  - [New York City Taxi Trip duarion](https://www.kaggle.com/c/nyc-taxi-trip-duration)
+    - https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse
