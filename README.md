@@ -30,3 +30,7 @@ git checkout -b branchname
   - Porto Seguro's Safe Driver Prediction 공부 내용 발표
   - [New York City Taxi Trip duarion](https://www.kaggle.com/c/nyc-taxi-trip-duration)
     - https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse
+
+- 2021-11-14
+  - Porto Seguro's Safe Driver Prediction 공부 내용 발표
+  - 혜원 : DBSCAN Clustering, 은희 : SVR 에 대해 추가 조사 후 다음주에 발표
