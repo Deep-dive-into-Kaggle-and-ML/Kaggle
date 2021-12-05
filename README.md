@@ -35,7 +35,12 @@ git checkout -b branchname
   - Porto Seguro's Safe Driver Prediction 공부 내용 발표
   - 혜원 : DBSCAN Clustering, 은희 : SVR 에 대해 추가 조사 후 다음주에 발표
 
-- 2021-11-21
+- 2021-11-21 ~ 2021-11-28
   - [Costa Rican Household Poverty Level Prediction](https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
     - <https://www.kaggle.com/youhanlee/3250feats-532-feats-using-shap-lb-0-436>
     - <https://www.kaggle.com/skooch/xgboost>
+
+- 2021-12-06
+  - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview)
+    - <https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction>
+    - <https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering>
