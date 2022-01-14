@@ -44,3 +44,17 @@ git checkout -b branchname
   - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview)
     - <https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction>
     - <https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering>
+
+- 2022-01-02
+  - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview)
+    - <https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction>
+    - <https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering>
+  
+- 2022-01-09
+  - [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk/overview)
+    - <https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction>
+    - <https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering>
+  
+- 2022-01-16
+  - [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+    - <https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts/data>
