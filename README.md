@@ -57,4 +57,4 @@ git checkout -b branchname
   
 - 2022-01-16
   - [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
-    - <https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts/data>
+    - <https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts/notebook>
