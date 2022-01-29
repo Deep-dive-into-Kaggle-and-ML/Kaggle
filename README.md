@@ -58,3 +58,9 @@ git checkout -b branchname
 - 2022-01-16
   - [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
     - <https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts/notebook>
+
+- 2022-01-23
+  - [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+    - <https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts/notebook>
+- 2022-01-29
+  - [데이콘 집값 예측 경진대회 참여](https://dacon.io/competitions/official/235869/overview/description)
